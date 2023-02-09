@@ -22,8 +22,8 @@ password = '123456789'
 wlan.connect(ssid, password)
 url = "http:/192.168.4.9:3000/pos"
 """
-temperature = ADC(Pin(34))
-led = Pin(24, Pin.OUT)
+temperature = ADC(Pin(28))
+led = Pin(18, Pin.OUT)
 
 positioning = "middle"
 while not wlan.isconnected():
@@ -35,6 +35,7 @@ while True :
 
     time.sleep(0.3)
     temps = temperature.read_u16()/65535*24
+    print (temps)
     if temps >= 20:
         led.on()
 
@@ -45,7 +46,7 @@ while True :
     try:
         print("GET")
 
-        dataP = {"position": str(xposi)}
+
         r = urequests.get("http://192.168.100.131:3000/")
 
         print(r.json())
@@ -54,3 +55,4 @@ while True :
         time.sleep(1)
     except Exception as e:
         print(e)
+
