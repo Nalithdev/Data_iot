@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59406dfe-1148-4659-bf16-0c44d5c80fde" name="Changes" comment="" />
+    <list default="true" id="59406dfe-1148-4659-bf16-0c44d5c80fde" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/back" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -40,13 +42,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ethan/Documents/IIM A2/Node.js-A2.1-B-cats",
+    "last_opened_file_path": "C:/Users/ethan/Documents/IIM A2/data_IOT/back2",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -56,6 +59,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ethan\Documents\IIM A2\data_IOT\back2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ethan\Documents\IIM A2\data_IOT\back" />
       <recent name="C:\Users\ethan\Documents\IIM A2\data_IOT\front" />
@@ -70,6 +76,9 @@
       <option name="presentableId" value="Default" />
       <updated>1675237860731</updated>
       <workItem from="1675237861967" duration="24159000" />
+      <workItem from="1675668981523" duration="42000" />
+      <workItem from="1675669035162" duration="643000" />
+      <workItem from="1675946492843" duration="1438000" />
     </task>
     <servers />
   </component>
