@@ -14,3 +14,5 @@ L'objectif d'origine était de connecter un joystick et de géré en micropython
 
 ###### comment cela fonctionne: 
 ###### Envoyé la donné du joystick au serveur pour ensuite envoyé cette donné au code javascript qui permet la gestion des platformes du pong à l'aide de websocket
+
+##### Impossibilité de faire le rendu final d'origine à cause d'un buffer protocole.
